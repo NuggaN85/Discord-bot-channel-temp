@@ -10,9 +10,9 @@ Un bot Discord doté de la fonctionnalité de commande slash, qui permet de cré
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Discord-bot-channel-temp/issues/).
+- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Discord-bot-channel-temp/issues/2).
 
-- Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Discord-bot-channel-temp/issues/).
+- Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Discord-bot-channel-temp/issues/3).
 
 - Suivez [@NuggaN85](https://twitter.com/NuggaN85) sur Twitter
 
