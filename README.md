@@ -1,6 +1,6 @@
 # Discord-bot-channel-temp
 
-Un bot Discord qui crée des salons temporaires avec l'option slash command.
+Un bot Discord doté de la fonctionnalité de commande slash, qui permet de créer des salons temporaires.
 
 ## <strong>❤️</strong> (Contribuer) <strong>❤️</strong>
 
