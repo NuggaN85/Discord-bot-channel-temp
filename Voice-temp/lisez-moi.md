@@ -2,4 +2,4 @@ Ce code utilise l'événement `interactionCreate` pour détecter les commandes s
 
 Pour utiliser ce bot, vous devez créer une application Discord et y ajouter un bot, puis obtenir un token d'accès bot pour ce dernier. Vous pouvez récupérer ce token sur la page `Bot` de votre application Discord.
 
-N'oubliez pas de remplacer `YOUR_BOT_TOKEN_HERE` par votre propre token d'accès bot dans le code.
+N'oubliez pas de remplacer `VOTRE_TOKEN_DISCORD` par votre propre token d'accès bot dans le code.
