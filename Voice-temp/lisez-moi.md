@@ -1,5 +1,5 @@
-Ce code écoute l'événement interactionCreate pour détecter les commandes slash, puis crée un nouveau salon vocal temporaire en utilisant les options spécifiées. Le salon est ensuite supprimé après la durée spécifiée.
+Ce code utilise l'événement `interactionCreate` pour détecter les commandes slash Discord. Ensuite, il crée un nouveau salon vocal temporaire avec les options spécifiées et supprime automatiquement le salon après la durée spécifiée.
 
-Pour utiliser ce bot, vous devez créer une application Discord et ajouter un bot à cette application. Vous aurez également besoin d'un token d'accès bot pour votre bot Discord. Vous pouvez obtenir ce token à partir de la page "Bot" de votre application Discord.
+Pour utiliser ce bot, vous devez créer une application Discord et y ajouter un bot, puis obtenir un token d'accès bot pour ce dernier. Vous pouvez récupérer ce token sur la page Bot de votre application Discord.
 
-N'oubliez pas de remplacer YOUR_BOT_TOKEN_HERE par votre propre token d'accès bot dans le code.
+N'oubliez pas de remplacer `YOUR_BOT_TOKEN_HERE` par votre propre token d'accès bot dans le code.
