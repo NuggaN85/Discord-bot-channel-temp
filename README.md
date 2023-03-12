@@ -1,5 +1,13 @@
 # Discord-bot-channel-temp
 
+```
+ * Dev: NuggaN85
+ * Github: NuggaN85
+ * Twitter: @NuggaN85
+ * Copyright © 2023 All rights reserved.
+ * MIT Licensed
+```
+
 Un bot Discord doté de la fonctionnalité de commande slash, qui permet de créer des salons temporaires.
 
 ## <strong>❤️</strong> (Contribuer) <strong>❤️</strong>
